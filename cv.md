@@ -10,4 +10,4 @@
         }
         BD.Close();
 
-6.Work experience 1 year no projects. 7.Средне-специаьное (заочное образование 2 курс) 8.Английский язык (Weak)
+6.Work experience 1 year no projects. 7.Средне-специаьное (заочное образование 2 курс) 8.Английский язык (Weak).

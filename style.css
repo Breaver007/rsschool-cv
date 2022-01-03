@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+  }
+  body
+{
+    font-size: 1em;
+    background-color: #dbe4fa!important
+}
+.header
+{
+    background-color: #000000;
+}
+.navigation
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-fluid{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    filter: grayscale(0.2) brightness(1.05);
+    transition: .3s;
+}
+.text-center
+{
+    margin: auto;
+}
+figure
+{
+    margin: auto;
+}
+.content
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.blok
+{
+    width: 500px;
+    height: auto;
+}
+.footer
+{
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    /*background-color: #829985;*/
+    background-color: #000000;
+    padding: 20px;
+}
+.container
+{
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+}
+.rss
+{
+    width: 121px;
+    height: 45px;
+    background-image: url(https://cv-hints.netlify.app/assets/svg/rss.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.github {
+    color: #fff;
+    text-decoration: none;
+    line-height: 45px;
+}
+.nav-link {
+    display: inline; 
+    position: relative;
+    padding: 0 12px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 50px;
+    color: #fff;
+}
+.btn-link{
+    color: white;
+}
+.main-image
+{
+    background-color: #6c757d;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ul_name
+{
+    font-family: Impact, fantasy;
+}
+.main
+{
+    margin-bottom: 100px;
+}
